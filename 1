@@ -1,0 +1,13 @@
+import random as rm
+n=rm.randint(1,100)
+k=int(input('Guess the number:- '))
+c=1
+while(k!=n):
+    c+=1
+    if k>n:
+        print('lower')
+    else:
+        print('higher')
+    k=int(input('Guess the number:- '))
+else:
+    print('you guessed right number in ',c,'guesses !!!!!!!')            
