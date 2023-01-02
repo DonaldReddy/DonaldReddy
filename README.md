@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @DonaldReddy
 - 👀 I’m interested in Machine Learning , Artificial Intelligence , Computer Vision & Neural Networks
-- 🔭 I’m currently working on Data Science
+- 🔭 I’m currently working on Machine Learning
 - 📫 How to reache me -- donaldreddy2712@gmail.com
 <!--
 **DonaldReddy/DonaldReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
