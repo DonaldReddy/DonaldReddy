@@ -1,7 +1,6 @@
 ###
 
 <div align="center">
-  <img align="center"  height="250" src="https://avatars.githubusercontent.com/u/83972294?s=400&u=bcf4591ebf02990e8f29cb5d50f1ac7efbd0c186&v=4" style="border-radius:50%" />
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m DonaldReddy</h1>
   <h2 >
     <br>👀 I’m interested in Machine Learning, Deep Learning, and FullStack web development.<br>🔭 I’m currently working on the MERN stack, and Open Source.
