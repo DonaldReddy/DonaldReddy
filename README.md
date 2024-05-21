@@ -7,6 +7,8 @@
   </h2>
 </div>
 
+[![An image of @donaldreddy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donaldreddy)](https://holopin.io/@donaldreddy)
+
 ###
 
 <br clear="both">
