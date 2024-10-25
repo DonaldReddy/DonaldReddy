@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m Donald Reddy</h1>
   <h2 >
-    <br>👀 I’m interested in Machine Learning, Deep Learning, and FullStack web development.<br>🔭 I’m currently working on the MERN stack, and Open Source.
+    <br>👀 I’m interested in Machine Learning, Deep Learning, and FullStack development.<br>🔭 I’m working on the MERN stack, and Open Source.
   </h2>
 </div>
 
